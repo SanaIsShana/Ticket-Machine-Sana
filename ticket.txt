@@ -1,0 +1,4 @@
+------ My ticket ------
+Hjärup --- to --- Köpenhamn C
+Ticket type and amount: Child | 2 | 
+Ticket price: 180.0kr
